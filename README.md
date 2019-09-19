@@ -1,27 +1,27 @@
 # Udacity artificial intelligence and specializations nanodegree projects
 
-In this nanodegree, i took their special track for people there previously have taken an AI nanoderee at Udacity, that let me take the base course for the ai nanodree program and do all 3 specialties at once.
+In this nanodegree, I took their special track for people there previously have taken an AI nanodegree at Udacity, that let me take the base course for the ai nanodegree program and do all 3 specialties at once.
 
 ### Core projects:
 
 **Suduku solver**
 
-Make a program there can solve any suduku pussle with algortihm improvements like the naked twins algoritm - see ``sudoku``.
+Make a program there can solve any sudoku puzzle with algorithm improvements like the naked twin's algorithm - see ``sudoku``.
 
 
 **Game agent**
 
-Make a game agent there could play turn based games by trying move staticly by trying out moves with min-max pruning and evaluating them with a simple huristic. The game was based on a chess bord with 2 hourses, each player takes turn, and each cell can only by touched once - see ``gameplaying-agent``.
+Make a game agent there could play turn-based games by trying to move strategically by trying out moves with min-max pruning and evaluating them with a simple heuristic. The game was based on a chessboard with 2 horses, each player takes a turn, and each cell can only be touched once - see ``gameplaying-agent``.
 
 
 **Independent planer**
 
-Creating an independent planer with takes in a starting state, a goal, all the actions there can be executed in the domain there effect the state, from here, the program should be able to solve any planning poroblem. The project was based on moving air cargo between airports in the most efficece mannar - see ``planning-search``.
+Creating an independent planer with takes in a starting state, a goal, all the actions there can be executed in the domain there effect the state, from here, the program should be able to solve any planning problem. The project was based on moving air cargo between airports in the most efficient manner - see ``planning-search``.
 
 
 **ASL recognize**
 
-Recognize words from American Sign Language based on the location of the persons hands using a set of Hidden Markov Models (HMMs) - see ``sign-language-recognizer``.
+Recognize words from American Sign Language based on the location of the person's hands using a set of Hidden Markov Models (HMMs) - see ``sign-language-recognizer``.
 
 
 ### Specialty projects:
